@@ -15,4 +15,4 @@
 ### **📋 Assignment**
 |차례|기 간|내 용|
 |------|---|---|
-|1번 째| ~ 2021.8.20(Fri)| [기본개념](https://github.com/kbubot/KBU_Front-End_Education/blob/main/Task/O.T.md)|
+|1번 째| ~ 2021.8.20(Fri)| [기본개념](https://github.com/toast-ceo/DeepLearning_Study/blob/main/%EB%94%A5%EB%9F%AC%EB%8B%9D%20%EC%A0%95%EB%A6%AC%201/%E1%84%83%E1%85%B5%E1%86%B8%E1%84%85%E1%85%A5%E1%84%82%E1%85%B5%E1%86%BC%20%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%85%E1%85%B5%20%E1%84%82%E1%85%A9%E1%84%90%E1%85%B3%201%2032d5db8a9db245a78dc5cd60fca862aa.md)|
