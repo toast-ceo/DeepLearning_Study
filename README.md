@@ -1,5 +1,4 @@
-# KBU_Front-End_Education
-
+# Deep Learning Study
 ## 교육 레포지터지
 
 ### **🏡 소개**
